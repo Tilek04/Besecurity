@@ -1,0 +1,568 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Auton' sans-serif;
+	font-family: 'open sans' sans-serif ;
+	color: #000;
+	
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+	padding: 0;
+	margin: 0;
+	text-transform: uppercase;
+}
+
+ul, li {
+	display: block;
+}
+
+.conteiner{
+	display: flex;
+	width: 1080px;
+	margin: 0 auto;
+
+}
+
+.header{
+	background-image: url(https://themes.muffingroup.com/be/security3/wp-content/uploads/2019/12/security3-slider-bg.jpg)  ;
+    height: 600px;
+    background-repeat: no-repeat;
+    -o-background-size: cover; 
+    -webkit-background-size: cover; 
+}
+
+.nav {
+
+	margin-top: 45px;
+	display: inline-block;
+	
+}
+
+.Hode{
+	
+	color: #fff;
+	margin-left: 70px;
+	padding: 50px;
+}
+
+.Hode a{
+  
+	text-decoration: none;
+	list-style-type: none;
+	color: #eee;
+	font-family: sans-serif;
+	display: inline-block;
+	margin-left: 40px;
+	font-weight: bold;
+}
+
+.Hode a:hover {
+ color: #50b750;
+ }
+
+.Hode li{display: inline;}
+
+
+.about{
+	color: #fff;
+	width: 1200px;
+	height: 500px;
+}
+.button7{
+	margin-top: 50px;
+	position: relative;
+	left: 35px;
+	background-color: #50b750;
+	width: 100%;
+	padding: 15px 45px 15px 45px;
+	border: 0px;
+	cursor: pointer;
+}
+
+.button7 a{
+	text-decoration: none;
+	color: white;
+	width: 30%;
+	height: 30%;
+	font-size: 15px;
+}
+
+.box{
+	margin-left: 220px;
+	margin-top: 50px;
+	font-size: 35px;
+	color:  #fff;  
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.button5{
+	background-color: #50b750;
+	padding: 15px 30px 15px 30px;
+	border: 0px;
+    position: relative;
+    left: 220px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.button5 a{
+	text-decoration: none;
+	color: white;
+	width: 30%;
+	height: 30%;
+	font-size: 15px;
+}
+.button5 button:hover{background-color: : #2E9D5B;}
+
+.button4{
+	position: relative;
+	left: 240px;
+	background-color: #DCE2E4;
+	padding: 15px 20px 15px 20px;
+	border: 0px;
+	cursor: pointer;
+}
+
+.button4 a{
+	text-decoration: none;
+	color: black;
+	width: 30%;
+	height: 30%;
+	font-size: 15px;
+}
+
+.container{
+	background-color: #000;
+
+}
+
+.banner{
+	background-color: #000;
+	height: 920px;
+}
+
+.navbar{
+	color: white;
+	padding-top: 100px;
+	padding-left: 150px;
+	font-size: 23px;
+	font-family: sans-serif;
+}
+
+.banner hr{
+	margin-top: 20px;
+	width: 70px;
+	margin-left: 150px;
+	height: 4px;
+	background-color: #50b750;
+	border: 0px;
+				
+}
+
+.img2{
+	padding-left: 950px;
+	margin-top: -270px;
+	
+}
+
+.line{
+	color: #fff;
+	padding-left: 150px;
+	padding-top: 50px;
+	margin-top: -150px;
+	font-family: sans-serif;
+	font-size: 18px;
+}
+
+.line2{
+	padding-top: 3px;
+
+}
+
+.button3{
+
+    width: 140px;
+    height: 45px;
+    margin-left: 150px;
+    margin-top: 20px;
+	background-color: #50b750 ;
+	padding: 15px 20px 15px 20px;
+	border: 0px;
+	cursor: pointer;
+}
+
+.button3 a{
+	text-decoration: none;
+	color: white; 
+	width: 30%;
+	height: 30%;
+	font-size: 15px;
+}
+
+.row2{
+	margin-left: 570px;
+	position: absolute;
+	margin-top: -120px;
+	color: #50b750;
+	font-family: sans-serif;
+	font-size: 20px;
+
+}
+
+.lab{
+    margin-left: 570px;
+	position: absolute;
+	margin-top: -20px;
+	color: #fff;
+	font-family: sans-serif;
+	font-size: 17px;	
+}
+.row3{
+	margin-left: 570px;
+	color: 	white;
+	padding-top: 20px;
+}
+
+.row3 a{
+	text-decoration: 	none;	
+		color: 	white;
+}
+
+.icon{
+	font-weight: bold;	
+	color: 	#50b750;
+	font-size: 	25px;
+	margin-left: 	720px;
+	margin-top: 	-24px;
+}
+
+.conteiner5{
+	margin-left: 550px;
+	margin-top: -150px;
+}
+
+.conteiner5 h1{
+font-size: 25px;
+color: #fff;
+margin-left: 80px;
+margin-top: -80px;
+padding-left: 30px;
+font-family: sans-serif;
+
+}
+
+.conteiner5 p{
+	color: #fff;
+	margin-left: 80px;
+	padding-left: 30px;
+	font-family: sans-serif;
+	font-size: 15px;
+	}
+
+.conteiner6{
+	position: absolute;
+	margin-left: 950px;
+	margin-top: -105px;
+}
+.conteiner6 h1{
+	font-size: 25px;
+color: #fff;
+margin-left: 80px;
+margin-top: -80px;
+padding-left: 30px;
+font-family: sans-serif;
+
+}
+
+.conteiner6 p{
+	color: #fff;
+	margin-left: 80px;
+	padding-left: 30px;
+	font-family: sans-serif;
+	font-size: 15px;
+	}
+
+	.conteiner7{
+	margin-left: 550px;
+	padding-top: 50px;
+	}
+	.conteiner7 h1{
+		font-size: 25px;
+color: #fff;
+margin-left: 80px;
+margin-top: -80px;
+padding-left: 30px;
+font-family: sans-serif;
+}
+
+.conteiner7 p{
+	color: #fff;
+	margin-left: 80px;
+	padding-left: 30px;
+	font-family: sans-serif;
+	font-size: 15px;
+	}
+
+.conteiner8{
+	position: absolute;
+	margin-left: 950px;
+	margin-top: -105px;
+}
+.conteiner8 h1{
+	font-size: 25px;
+color: #fff;
+margin-left: 80px;
+margin-top: -80px;
+padding-left: 30px;
+font-family: sans-serif;
+
+}
+
+.conteiner8 p{
+	color: #fff;
+	margin-left: 80px;
+	padding-left: 30px;
+	font-family: sans-serif;
+	font-size: 15px;
+	}
+
+.bon {
+	color: #fff;
+	margin-top: 150px;
+	font-weight: bold;
+	font-family: sans-serif;
+	font-size: 55px;
+	margin-left: 500px;
+}
+
+.a hr{
+	width: 60px;
+	margin-left:  680px;
+	height: 4px;
+	background-color: #50b750;
+	border: 0px; 
+	margin-top: 35px;
+}
+
+.about{
+	background-color: #141414;
+	height:2700px;
+	width: 100%;
+}
+
+.conteinerw{
+	padding-left: 150px;
+	position: relative;
+	margin-top: -95px;
+	
+
+}
+
+.clav{
+	padding-top: 30px;
+	font-size: 25px;
+	font-family: sans-serif;
+}
+.clad{
+	font-size: 18px;
+	margin-top: 25px;
+	font-family: sans-serif;
+	line-height: 30px;
+
+	
+
+}
+
+.clas{
+font-size: 14px;
+margin-left: 110px;
+line-height: 40px;
+font-family:sans-serif;
+color:#b7b7b7;
+}
+
+.button1{
+
+    width: 140px;
+    height: 45px;
+    margin-left: 40px;
+    margin-top: 30px;
+	background-color: #2d2d2d ;
+	padding: 15px 20px 15px 20px;
+	border: 0px;
+	cursor: pointer;
+}
+
+.button1 a{
+	text-decoration: none;
+	color: white; 
+	width: 30%;
+	height: 30%;
+	font-size: 15px;}
+
+	.imf{
+		width: 100px;
+		height: 100px;
+		margin-left: 700px;
+		padding-top: 120px;
+}
+
+.imf :hover{
+  -webkit-transform: scale(0.7);
+  -ms-transform: scale(0.7);
+  transform: scale(0.7);
+}
+
+.imd{
+
+	margin-left: 140px;
+	margin-top: -360px;
+}
+
+
+.imd :hover{
+  -webkit-transform: scale(0.7);
+  -ms-transform: scale(0.7);
+  transform: scale(0.7);
+}
+
+.brut{
+margin-top: 110px;
+padding-left: 770px;
+}
+
+.brut h2{
+padding-top: 30px;
+display: block;
+font-size: 35px;
+font-family: sans-serif;
+padding-bottom: 30px;
+}
+
+.brut span{
+font-family: sans-serif;
+line-height: 30px;
+margin-top: 110px;
+font-size: 18px;
+padding-bottom: 15px;
+}
+
+.club li{
+line-height: 40px;
+font-family:sans-serif;
+color:#b7b7b7;
+font-size: 14px;
+margin-left: 730px;
+}
+.button0{
+ width: 140px;
+ height: 45px;
+ background-color: #2d2d2d ;
+padding: 15px 20px 15px 20px;
+border: 0px;
+cursor: pointer;
+margin-left: 770px;
+position: absolute;
+margin-top: -60px;
+}
+.button0 a{
+	text-decoration: none;
+	color: white; 
+	width: 30%;
+	height: 30%;
+	font-size: 15px;}
+
+.wok{
+	display: block;
+	margin-left: 130px;
+	padding-top: 100px;
+}
+
+.wok h3{
+	padding-top: 30px;
+	font-size: 35px;
+    font-family: sans-serif;
+}
+
+.par{
+font-family: sans-serif;
+line-height: 30px;
+font-size: 18px;
+padding-top: 20px;
+}
+
+.sps{
+line-height: 40px;
+font-family:sans-serif;
+color:#b7b7b7;
+font-size: 14px;
+padding-left: 90px;	
+}
+
+.buttons{
+width: 140px;
+ height: 45px;
+ background-color: #2d2d2d ;
+padding: 15px 20px 15px 20px;
+border: 0px;
+cursor: pointer;
+margin-left: 130px;
+margin-top: 40px;
+}
+
+.buttons a{
+	text-decoration: none;
+	color: white; 
+	width: 30%;
+	height: 30%;
+	font-size: 15px;}
+}
+
+.war{
+	position: absolute;
+right: 400px;
+}
+.war :hover{
+  -webkit-transform: scale(0.7);
+  -ms-transform: scale(0.7);
+  transform: scale(0.7);
+}
+
+.sec__hr hr{
+	width: 1100px;
+	margin-left:  130px;
+	height: 1px;
+	background-color: #2d2d2d;
+	border: 0px; 
+	margin-top: 135px;
+
+}
+
+.sec__title h4{
+	margin-left: 130px;
+	padding-top: 100px;
+	font-size: 32px;
+    font-family: sans-serif;
+}
+
+.sec__title button{
+	 height: 45px;
+ background-color: #2d2d2d ;
+padding: 15px 20px 15px 20px;
+border: 0px;
+cursor: pointer;
+margin-left: 1070px;
+position: absolute;
+margin-top: -40px;
+}
+
+.button2 a{
+	text-decoration: none;
+	color: white; 
+	width: 30%;
+	height: 30%;
+	font-size: 15px;}
+}
